@@ -22,9 +22,13 @@ Built with the "Illustro" style guide and optimized for low resource usage (1Hz 
 1. Install [Rainmeter](https://www.rainmeter.net/).
 2. Clone this repo into your skins folder:
    ```bash
-   cd ~/Documents/Rainmeter/Skins/
-   git clone [https://github.com/YOUR_USERNAME/SobrietyCounter.git](https://github.com/YOUR_USERNAME/SobrietyCounter.git)
+   cd ~/Documents/Rainmeter/Skins/ #Default location for Rainmeter skins
+   git clone https://github.com/velcan/Sobriety-Counter-Skin-for-Rainmeter-.git
 3.Open Rainmeter, find SobrietyCounter, and load Sobrietycounter.ini
+
+**For Best Results and effective visibility of the skin on your rainmeter select the postion as topmost**
+![Rainmeter Setting](preview2.png)
+
 
 ## Configuration
 1. Open Counter.ini and edit the Variables section:
