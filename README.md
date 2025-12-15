@@ -26,7 +26,7 @@ Built with the "Illustro" style guide and optimized for low resource usage (1Hz 
    git clone https://github.com/velcan/Sobriety-Counter-Skin-for-Rainmeter-.git
 3.Open Rainmeter, find SobrietyCounter, and load Sobrietycounter.ini
 
-**For Best Results and effective visibility of the skin on your rainmeter select the postion as topmost**
+**For Best Results and effective visibility of the skin on your rainmeter select the postion as stay topmost**
 ![Rainmeter Setting](preview2.png)
 
 
