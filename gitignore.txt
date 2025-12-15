@@ -1,0 +1,8 @@
+```text
+# Rainmeter Metadata
+*.stats
+*.opt
+
+# OS Junk
+Thumbs.db
+.DS_Store
